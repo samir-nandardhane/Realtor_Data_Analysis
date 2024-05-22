@@ -4,6 +4,9 @@ This repository contains the code and documentation for a comprehensive housing 
 
 Tablau Dashboard Link :- https://public.tableau.com/views/Realtor_Housing_Dashboard/State?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link
 
+![image](https://github.com/samir-nandardhane/Realtor_Data_Analysis/assets/66908893/11528d97-495e-423d-a100-c25c4d09a785)
+
+
 ### Overview:
 Managed end-to-end ETL pipeline for processing 3.5 million housing records. The pipeline extracts and transforms multiple features for analysis.
 
